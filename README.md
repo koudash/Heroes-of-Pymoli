@@ -1,6 +1,6 @@
 # Heroes-of-Pymoli
 
-<h2>DESCRIPTION OF OBSERVATIONS</h2>
+<h2>DESCRIPTIONS OF OBSERVATIONS</h2>
 
 <p><strong>1. Gender & Purchase:</strong></p>
 
